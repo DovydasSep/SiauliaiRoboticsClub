@@ -1,0 +1,236 @@
+body {
+    text-align: center;
+    background-image: url(images/back.jpg);
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#main {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgba(255,255,255,0.62);
+    padding-top: 15%;
+    padding-bottom: 10px;
+    text-align: center;
+    height: 550px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    margin-left: 25%;
+    height: 0%;
+    left: 25%;
+}
+.mainpagae {
+    padding-top: 0px;
+}
+
+footer {
+    text-align: center;
+    color: rgba(0,0,0,1.00);
+    background-color: rgba(26,120,158,1.00);
+    height: 40px;
+	position: fixed;
+}
+#list {
+    text-align: left;
+    margin-left: 196px;
+    font-family: allerta;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.col {
+    margin-right: 20px;
+    margin-left: 38px;
+    margin-bottom: 50px;
+    float: left;
+    width: 280px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    height: 500px;
+    background-color: rgba(203,203,203,0.64);
+    border-radius: 50px;
+    margin-top: -256px;
+	
+}
+#main1 {
+     margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgba(255,255,255,0.62);
+    padding-top: 15%;
+    padding-bottom: 10px;
+    text-align: center;
+    height: 700px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#main2 {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgba(255,255,255,0.62);
+    padding-top: 15%;
+    padding-bottom: 10px;
+    text-align: center;
+    height: 900px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.row {
+    content: "";
+    display: table;
+    clear: both;
+    margin-top: 184px;
+}
+.im1 img {
+    float: left;
+    border-radius: 50%;
+    margin-top: -350px;
+    margin-left: 110px;
+}
+.im2 img {
+    border-radius: 50%;
+    float: right;
+    margin-top: -350px;
+    margin-right: 120px;
+}
+
+.col1 {
+    background-color: rgba(203,203,203,0.64);
+    margin-right: 41px;
+    margin-left: 51px;
+    margin-bottom: 50px;
+    float: left;
+    width: 400px;
+    padding: 10px;
+    height: 750px;
+    border-radius: 50px;
+    margin-top: -85px;
+}
+
+.row1 {
+	
+	
+	 content: "";
+  display: table;
+  clear: both;
+}
+.events {
+    margin-top: 229px;
+}
+
+#main .About {
+    border-radius: 50px;
+    float: right;
+    width: 500px;
+    padding: 20px;
+    margin-right: 150px;
+    margin-top: -423px;
+    background-color: rgba(228,228,228,0.86);
+}
+
+#main .p1{
+    margin-left: 150px;
+    float: left;
+    margin-top: 138px;
+}
+
+.WS {
+    margin-top: -93px;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+.ev {
+    margin-top: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+
+.contatc1 {
+    width: 500px;
+    margin-right: 82px;
+    border-radius: 50px;
+    background-color: rgba(249,249,249,0.42);
+    float: right;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 300px;
+    margin-top: -72px;
+}
+
+#main .s1 img {
+    border-radius: 50%;
+    float: left;
+    margin-left: 50px;
+}
+
+#main .s2 img {
+    border-radius: 50%;
+    float: right;
+    margin-right: 50px;
+}
+#main .contact {
+    width: 100%;
+}
+
+footer {
+	position: fixed;
+	clear: both;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;	
+}
+
+h3 {
+	font-family:amaranth;
+
+}
+
+h2 {
+	font-family:amaranth;
+
+}
+#main .About {
+    margin-top: -51px;
+}
+#img img {
+    border-radius: 50%;
+    margin-top: -125px;
+}
+#main #logo img {
+    float: left;
+    border-radius: 50%;
+    margin-top: -60px;
+    margin-left: 80px;
+}
+.img4 img {
+    border-radius: 50%;
+    float: left;
+    margin-top: -77px;
+    margin-left: 40px;
+}
+.nawlogo img {
+    border-radius: 50%;
+    margin-right: -500px;
+}
+p {
+    font-family: asap;
+    font-style: normal;
+    font-weight: 400;
+}

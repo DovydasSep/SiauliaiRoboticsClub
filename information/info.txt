@@ -1,0 +1,97 @@
+We Sell
+
+Siauliai Robotics club sell a lot of electronic chips 
+so that people could upgrade their robots and be able to compete
+.
+
+
+
+
+<title>Robotos</title>
+
+
+<h2>Mini Sumo</h2>
+<p>Mini sumo robot It measures 10cm x 10cm. Weight - about 450gr. 
+It uses a polyol 50: 1 n20 motors, a nano-tech 300mAh 2-cell battery,
+ a robot "brain" by Nerijus Ramanauskas designed pcb board incorporating
+ an Arduino nano microcontroller, a tb3316fng motor controller, a starter
+ module (also designed by Nerijus Ramanauskas Sh) 340k distance sensor and
+ two tcrt1000 line sensors. Rims printed with 3D printer are covered with
+ silicone (silicon from silikon.lt). The construction of the robot is made
+ of PLA plastic. Not only does the robot have a start module, which not
+ only allows you to start and stop the robot using the remote control,
+ but also allows you to select various combat tactics. The front of the
+ robot is molded from lead and the bottom is cut from a 3mm iron sheet.</p>
+
+
+<h2>Line following</h2>
+<p>Line tracking robot with turbine. Its size is 21cm x 23cm.
+ Weight - about 120gr. It uses 10: 1 n20 engines, a nano-tech
+ 300mAh 2-cell battery. The robot pcb plate was drawn using the
+ Eagle program and commissioned from jlcpcb.com. Plate-mounted
+ atmega 328p, two tb6612fng motor controllers, 5v 3A voltage
+ regulator, 30mm turbine (EDF) controlled by 20A speed regulator
+ from hobbyking.com. Eight QRE1113GR sensors are used to detect
+ the line. The robot program is written using the Arduio IDE
+ environment, the program uses a PID algorithm for more accurate
+ line tracking. Rims and engine mounts are printed with a 3D 
+printer made of PLA plastic. Tires on the wheels from the mini-Z
+ machine. The bluetooth HC-06 module connects to the robot so the
+ robot's travel settings can be changed from the phone.</p>
+
+
+
+
+Contacts
+
+
+Mindaugas Mikalauskas and Dovydas Sepetauskas
+
+
+About Us
+
+<p>Šiauliai Robotics Club unites robotics enthusiasts
+ for joint activities provided for in the Club's By-Laws,
+ coordinating activities of Club members and representing
+ and defending the interests of Club members.</p>
+
+
+<p>Šiauliai Robotics Club unites robotics enthusiasts for
+ joint activities provided for in the Club's By-Laws, 
+coordinating activities of Club members and representing 
+and defending the interests of Club members.</p>
+
+
+
+<h2>Events</h2>
+<h3>Saules Robotu Musis 2019</h3>
+<p>For the third year in a row Šiauliai Sauletekis Gymnasium together
+ with Šiauliai Robotics Club has invited robotics enthusiasts to the
+ international robotics competition "The Battle of the Sun Robots 2019".
+ On April 6, robot builders (teams) with 155 robots (144 last year) from
+ various cities and towns of Latvia and Lithuania came to Sauletekis Gymnasium.</p>
+
+<h3>Saules Roboty Musis 2018</h3>
+<p>
+
+This Saturday, April 7, a huge group of robotics enthusiasts from all over Lithuania
+ and Latvia came to Šiauliai Sauletekis Gymnasium and Šiauliai Robotics Club for the
+ first time in Šiauliai organized international robotics competition "Solar Robots
+ Battle 2018". It is gratifying that as many as 144 robots fought in this competition.
+ Robot developers (teams) came from Riga Robotics School, Preili Robotics Club, Liepaja,
+ Vilnius, Kaunas, Klaipeda, Šiauliai, Panevežys, Kretinga, Kupiškis, Pakruojis Town and
+ District, Rozalimas, Radviliškis and other Lithuanian cities and towns.</p>
+
+
+
+<h3>Saules Robotu Musis 2017</h3>
+<p> On April 8th, a large number of robotics enthusiasts from all over Lithuania came
+ to one of the biggest robotics competitions in Šiauliai - “Solar Robot Battle 2017”.
+ 62 robotics creators (teams) from Šiauliai, Kaunas, Panevežys, Palanga, Anykšciai,
+ Pakruojis and Pakruojis district arrived to the traditional event organized by Šiauliai 
+Sauletekis Gymnasium and Šiauliai Robotics Club in March. The participants of the event 
+were warmly welcomed by Domas Griškevicius, Deputy Mayor of Šiauliai City Municipality 
+and Ernesta Šimkiene, Curator of Exhibitions of the Art Gallery.
+ </p>
+
+
